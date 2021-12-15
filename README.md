@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**35e/35e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my github page
+> 👋 Hi, I’m @35e
 
-Here are some ideas to get you started:
+### A little about myself
+> 👀 I’m interested in Laravel and Vue.js\
+> 🔎 I like to learn new things\
+> 📅 Coding since 2016
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently working with
+> Vue.js\
+> Nuxt.js\
+> Vite
+
+### Experience with
+> PHP\
+> Javascript\
+> JQuery\
+> NodeJS\
+> Inertia.js\
+> Laravel
