@@ -6,11 +6,13 @@
 > 📅 Coding since 2016
 
 ### Currently working with
-> Vue.js\
-> Nuxt.js\
-> Vite
+> React.js\
+> Next.js
 
 ### Experience with
+> Vue.js\
+> Nuxt.js\
+> Vite\
 > PHP\
 > Javascript\
 > JQuery\
