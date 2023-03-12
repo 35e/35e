@@ -1,21 +1,13 @@
-# Welcome to my github page
-> 👋 Hi, I’m @35e
+# 👋 Hi, I’m @35e
 
-### A little about myself
+### 🗨 A little about myself
 > 🔎 I like to learn new things\
 > 📅 Coding since 2016
 
-### Currently working with
+### 💻 Currently working with
 > React.js\
-> Next.js
+> Next.js\
+> C#
 
-### Experience with
-> Vue.js\
-> Nuxt.js\
-> Vite\
-> PHP\
-> Javascript\
-> JQuery\
-> NodeJS\
-> Inertia.js\
-> Laravel
+### ✔ Experience with
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,windicss,js,jquery,nodejs,vite,vue,nuxtjs,react,nextjs,svelte,php,laravel,py,supabase,vscode,git,md)]()
