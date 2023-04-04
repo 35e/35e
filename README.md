@@ -10,4 +10,4 @@
 > C#
 
 ### ✔ Experience with
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,windicss,js,jquery,nodejs,vite,vue,nuxtjs,react,nextjs,svelte,php,laravel,py,supabase,vscode,git,md)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,windicss,js,jquery,nodejs,vite,vue,nuxtjs,react,nextjs,svelte,php,laravel,py,supabase,vscode,git,md,docker)]()
