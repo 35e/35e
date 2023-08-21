@@ -11,5 +11,3 @@
 
 ### ✨ Experience with
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,nodejs,vite,vue,nuxtjs,react,nextjs,svelte,php,laravel,py,supabase,vscode,git,md,docker)]()
-
-![Profile views](https://gpvc.arturio.dev/35e)  
